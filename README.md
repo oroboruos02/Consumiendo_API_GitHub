@@ -32,6 +32,9 @@ Esta aplicación te permite buscar y visualizar los repositorios de cualquier us
 
 4. ¡Explora los repositorios del usuario y encuentra proyectos interesantes!
 
+5. Echale un vistazo a la aplicacion directamente de GitHub Pages en el siguiente enlace:
+   [Página Principal del Repositorio](https://oroboruos02.github.io/Consumiendo_API_GitHub/)
+
 ## Tecnologías Utilizadas
 
 - HTML, CSS, JavaScript: Para la estructura, estilos y funcionalidad de la aplicación.
